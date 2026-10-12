@@ -490,7 +490,7 @@ char *yytext;
 ** from some standard C lexer I found somewhere.
 **
 **---------------------------------------------------------------------------
-** Copyright 2001 Randy Heit
+** Copyright 2001 Marisa Heit
 ** All rights reserved.
 **
 ** Redistribution and use in source and binary forms, with or without

@@ -4,7 +4,7 @@
 ** A Yacc/Bison grammar that specifies the recognized scripting language.
 **
 **---------------------------------------------------------------------------
-** Copyright 2001 Randy Heit
+** Copyright 2001 Marisa Heit
 ** All rights reserved.
 **
 ** Redistribution and use in source and binary forms, with or without
